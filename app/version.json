@@ -1,10 +1,10 @@
 {
-  "web": "2026.11.26.3",
+  "web": "2026.11.26.4",
   "notes": [
-    "Message de mise à jour simplifié"
+    "Moteur IA connecté : passe en vraies vidéos dès que Google est activé"
   ],
-  "zip": "https://amodgroup031-cloud.github.io/amod-realix-web/app/www-2026.11.26.3.zip",
-  "checksum": "6226d0439c1f303e647573b594fd26a48e2108c36c59bcb13a70d7373fd5a72a",
+  "zip": "https://amodgroup031-cloud.github.io/amod-realix-web/app/www-2026.11.26.4.zip",
+  "checksum": "ab21ac524d25c62e26d952c5ece7910d254aaa2f09b4b45082b2b0f66c11f9b8",
   "native_min": 0,
   "apk": null,
   "apk_version": null
