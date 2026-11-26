@@ -1,11 +1,10 @@
 {
-  "web": "2026.11.26.2",
+  "web": "2026.11.26.3",
   "notes": [
-    "Les mises à jour arrivent maintenant toutes seules dans l'application",
-    "Le numéro de version est affiché dans Réglages"
+    "Message de mise à jour simplifié"
   ],
-  "zip": "https://amodgroup031-cloud.github.io/amod-realix-web/app/www-2026.11.26.2.zip",
-  "checksum": "9e147755ea1ae8138c8f2d63044dc462e23314bda3264350f384fb0a83cd2ef0",
+  "zip": "https://amodgroup031-cloud.github.io/amod-realix-web/app/www-2026.11.26.3.zip",
+  "checksum": "6226d0439c1f303e647573b594fd26a48e2108c36c59bcb13a70d7373fd5a72a",
   "native_min": 0,
   "apk": null,
   "apk_version": null
